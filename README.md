@@ -1,2 +1,3 @@
 # python-rest-weather-api
-Restful API
+Rest Framework ReadOnlyModelViewSet
+
